@@ -14,14 +14,20 @@ Sensórica y metrología
 
 Energía sostenible
 
-📊 Ejes Temáticos Comparativos
-Tabla 1: Comparación entre IA y Tecnologías Cuánticas
-Aspecto	Inteligencia Artificial (IA)	Tecnologías Cuánticas
-Enfoque Principal	Soluciones basadas en datos y aprendizaje automático	Explotación de fenómenos cuánticos (superposición, entrelazamiento)
-Aplicaciones Clave	Diagnóstico médico, agricultura de precisión, educación	Comunicaciones seguras, sensores ultra-precisos, simulación de materiales
-Impacto Regional	Automatización, optimización de procesos	Innovación en sectores como minería, salud y energía
-Requisitos Técnicos	Grandes conjuntos de datos, infraestructura computacional	Equipos especializados (criogenia, láseres, sistemas de vacío)
+## 📊 Ejes Temáticos Comparativos
+
+### Tabla 1: Comparación entre IA y Tecnologías Cuánticas
+
+| **Aspecto**               | **Inteligencia Artificial (IA)**                          | **Tecnologías Cuánticas**                          |
+|---------------------------|---------------------------------------------------------|---------------------------------------------------|
+| **Enfoque Principal**     | Soluciones basadas en datos y aprendizaje automático     | Explotación de fenómenos cuánticos (superposición, entrelazamiento) |
+| **Aplicaciones Clave**    | Diagnóstico médico, agricultura de precisión, educación | Comunicaciones seguras, sensores ultra-precisos, simulación de materiales |
+| **Impacto Regional**      | Automatización, optimización de procesos                | Innovación en sectores como minería, salud y energía |
+| **Requisitos Técnicos**   | Grandes conjuntos de datos, infraestructura computacional | Equipos especializados (criogenia, láseres, sistemas de vacío) |
+
+
 📈 Gráficos de Impacto
+
 Gráfico 1: Potencial de las Tecnologías Cuánticas en Colombia
 Diagram
 Code
@@ -31,6 +37,7 @@ pie
     "Agricultura (Metrología de Suelos)" : 25
     "Energía (Materiales Cuánticos)" : 20
     "Seguridad (Criptografía Cuántica)" : 20
+    
 Gráfico 2: Distribución Regional de Proyectos
 Diagram
 Code
