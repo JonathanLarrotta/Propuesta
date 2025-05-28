@@ -31,28 +31,25 @@ Energía sostenible
 Gráfico 1: Potencial de las Tecnologías Cuánticas en Colombia
 
 ```mermaid
-pie
-    title Sectores con Mayor Impacto de las Tecnologías Cuánticas
+pie title Sectores con Mayor Impacto de las Tecnologías Cuánticas
     "Salud (Genómica y Diagnóstico)" : 35
     "Agricultura (Metrología de Suelos)" : 25
     "Energía (Materiales Cuánticos)" : 20
     "Seguridad (Criptografía Cuántica)" : 20
+```
     
 Gráfico 2: Distribución Regional de Proyectos
 
-
-**Gráfico 2:**
-```markdown
 ```mermaid
-bar
+barChart
     title Proyectos por Región (Convocatoria 966)
-    x-axis Regiones
-    y-axis Número de Proyectos
-    "Pacífico" : 8
-    "Caribe" : 12
-    "Eje Cafetero" : 15
-    "Amazonía" : 5
-
+    xAxis Regiones
+    yAxis Número de Proyectos
+    bar "Pacífico" : 8
+    bar "Caribe" : 12
+    bar "Eje Cafetero" : 15
+    bar "Amazonía" : 5
+```
     
 🔬 Líneas de Investigación en Tecnologías Cuánticas
 1. Procesamiento Cuántico de la Información
