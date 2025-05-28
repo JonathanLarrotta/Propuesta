@@ -1,6 +1,4 @@
-README - Proyecto: Tecnologías Cuánticas para el Desarrollo Regional
-Estudiante de Ingeniería Electrónica - Décimo Semestre
-Seminario de Actualización en Tecnologías Cuánticas
+
 
 📌 Introducción
 Este repositorio documenta el análisis y la propuesta técnica para la Convocatoria Colombia Inteligente: Ciencia y Tecnologías Cuánticas e Inteligencia Artificial para los Territorios (No. 966), enfocada en fortalecer la investigación aplicada en tecnologías cuánticas e IA para impactar positivamente en el desarrollo regional.
@@ -41,14 +39,11 @@ pie title Sectores con Mayor Impacto de las Tecnologías Cuánticas
 Gráfico 2: Distribución Regional de Proyectos
 
 ```mermaid
-barChart
-    title Proyectos por Región (Convocatoria 966)
-    xAxis Regiones
-    yAxis Número de Proyectos
-    bar "Pacífico" : 8
-    bar "Caribe" : 12
-    bar "Eje Cafetero" : 15
-    bar "Amazonía" : 5
+xychart-beta
+    title "Proyectos por Región (Convocatoria 966)"
+    x-axis ["Pacífico", "Caribe", "Eje Cafetero", "Amazonía"]
+    y-axis "Número de Proyectos" 0 --> 20
+    bar [8, 12, 15, 5]
 ```
     
 🔬 Líneas de Investigación en Tecnologías Cuánticas
