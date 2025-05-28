@@ -1,11 +1,10 @@
 ## 🚀 Aplicación de tecnologías cuánticas en agricultura de precisión y gestión sostenible de recursos  
-## Convocatoria Colombia Inteligente 966 - Eje de Ciencia y Tecnologías Cuánticas
+#### *Convocatoria Colombia Inteligente 966 - Eje de Ciencia y Tecnologías Cuánticas*
 
-
-📌 Introducción
+## 📌 Introducción
 Este repositorio documenta el análisis y la propuesta técnica para la Convocatoria Colombia Inteligente: Ciencia y Tecnologías Cuánticas e Inteligencia Artificial para los Territorios (No. 966), enfocada en fortalecer la investigación aplicada en tecnologías cuánticas e IA para impactar positivamente en el desarrollo regional.
 
-🔎 Objetivo Principal
+## 🔎 Objetivo Principal
 Fomentar proyectos que integren tecnologías cuánticas en sectores estratégicos como:
 
 Procesamiento de información cuántica
@@ -26,7 +25,7 @@ Energía sostenible
 | **Requisitos Técnicos**   | Grandes conjuntos de datos, infraestructura computacional | Equipos especializados (criogenia, láseres, sistemas de vacío) |
 
 
-📈 Gráficos de Impacto
+## 📈 Gráficos de Impacto
 
 Gráfico 1: Potencial de las Tecnologías Cuánticas en Colombia
 
@@ -48,7 +47,7 @@ xychart-beta
     bar [8, 12, 15, 5]
 ```
     
-🔬 Líneas de Investigación en Tecnologías Cuánticas
+## 🔬 Líneas de Investigación en Tecnologías Cuánticas
 1. Procesamiento Cuántico de la Información
 Algoritmos cuánticos para simulación de moléculas en fármacos.
 
@@ -64,7 +63,7 @@ Desarrollo de materiales cuánticos para celdas solares.
 
 Optimización de superconductores para redes eléctricas.
 
-🏆 Requisitos para Participar
+## 🏆 Requisitos para Participar
 ✅ Alianza mínima:
 
 1 Institución de Educación Superior (IES) (Ejecutora).
@@ -77,10 +76,10 @@ Optimización de superconductores para redes eléctricas.
 
 ✅ Temática principal: IA o Tecnologías Cuánticas (con integración opcional del otro eje).
 
-📌 Conclusión
+## 📌 Conclusión
 Esta convocatoria representa una oportunidad única para posicionar a Colombia en la vanguardia de las tecnologías cuánticas, con aplicaciones concretas en salud, agricultura y energía.
 
-🎯 Metas del Proyecto:
+## 🎯 Metas del Proyecto:
 
 Desarrollar un prototipo de sensor cuántico para agricultura.
 
